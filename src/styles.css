@@ -1,0 +1,48 @@
+  h1{
+   font-family: 'Times New Roman', Times, serif;
+   
+  }
+  h2
+ {
+    color: brown; 
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+ }
+ 
+ h3{
+
+  color: rgb(16, 24, 23); 
+  font-family:'Times New Roman', Times, serif;
+font-weight: bolder;
+
+ }
+
+a{
+    font-weight:bolder;
+     font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+  
+  font-weight: bolder;
+  margin-top: 50px;
+  color: rgb(19, 17, 20);
+  text-align: center;
+  background-color: rgb(32, 209, 218);
+}
+h6{
+  text-align: center;
+   background-color: cadetblue;
+   margin-top: 50px;
+}
+h4{
+  font-family: 'Times New Roman', Times, serif;
+}
+h5{
+  font-family: 'Times New Roman', Times, serif;
+}
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background: #f3f6fb;
+}
